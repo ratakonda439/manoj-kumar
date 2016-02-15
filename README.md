@@ -48,20 +48,28 @@ Contributions:
  
 ## DELIVERABLES AND CHECKPOINTS
  Checkpoint date: 2/05/2016
+  
   Expected Deliverable:
   student login information
+  
   Responsible team member:
   manoj kumar ratakonda 
-  Checkpoint results:
- we got edit profile.videos,douts and answers
-  Checkpoint date: 2/10/2016
-  Expected Deliverable:
-  faculty login information
-  Responsible team member:
-  krishana and suresh
+  
   Checkpoint results:
   we got edit profile.videos,douts and answers
-# RESEARCH QUESTION
-1.why did we use eclipse tool instead of netbeans?
+  
+  Checkpoint date: 2/10/2016
+  
+  Expected Deliverable:
+  faculty login information
+  
+  Responsible team member:
+  krishana and suresh
+  
+  Checkpoint results:
+  we got edit profile.videos,douts and answers
 
-2.why don not we put chat tool?
+# RESEARCH QUESTION
+1.why do we use eclipse tool instead of netbeans?
+
+2.why do not we put chat tool?
